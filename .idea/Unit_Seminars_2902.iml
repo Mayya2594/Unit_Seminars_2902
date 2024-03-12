@@ -8,10 +8,18 @@
       <sourceFolder url="file://$MODULE_DIR$/Seminar_2_HW/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Seminar_3_HW/Test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/Seminar_3_HW/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Seminar_4_HW/Test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Seminar_4_HW/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="assertj-core-3.24.2" level="project" />
     <orderEntry type="library" name="junit-jupiter-api-5.9.1" level="project" />
+    <orderEntry type="library" name="mockito-core-5.0.0" level="project" />
+    <orderEntry type="library" name="byte-buddy-agent-1.12.22" level="project" />
+    <orderEntry type="library" name="byte-buddy-1.12.22" level="project" />
+    <orderEntry type="library" name="mockito-core-5.0.0 (2)" level="project" />
+    <orderEntry type="library" name="byte-buddy-1.12.22 (2)" level="project" />
+    <orderEntry type="library" name="byte-buddy-agent-1.12.22 (2)" level="project" />
   </component>
 </module>
